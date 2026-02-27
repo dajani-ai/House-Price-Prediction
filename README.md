@@ -23,9 +23,9 @@ I discovered that the 'Median income for the area surrounding' and 'Living Area'
 # Connect with Me
 I am documenting my AI learning journey! Feel free to reach out or follow my progress:
 
-- Instagram: [@dajani.ai]
-- LinkedIn: [www.linkedin.com/in/suleiman-dajani-b20b1a362]
-- Email: [dajani2024@gmail.com]
+- Instagram: [@dajani.ai](https://www.instagram.com/dajani.ai)
+- LinkedIn: [Suleiman Dajani](https://www.linkedin.com/in/suleiman-dajani-b20b1a362)
+- Email: [dajani2024@gmail.com](mailto:dajani2024@gmail.com)
 
----
+--
 Developed by [Suleiman Dajani]
