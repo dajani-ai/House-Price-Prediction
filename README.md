@@ -6,11 +6,12 @@ A Machine Learning project designed to predict real prices based on various feat
 The goal of this project is to build a predictive model that can estimate house prices with high accuracy. This helps buyers and sellers understand the fair market value of a property based on historical data.
 
 # Features & Workflow
-- Data Cleaning: Handled missing values, removed outliers, and normalized data.
-- Exploratory Data Analysis (EDA): Visualized correlations between features (e.g., how location coordinates affects price).
-- Feature Engineering: Selected the most impactful variables for the model.
-- Model Training: Implemented Regression algorithms (Linear Regression / Random Forest).
-- Evaluation: Achieved a high accuracy score of [82%] using R-squared metric.
+- EDA: Visualized data to find hidden patterns and correlations.
+- Data Cleaning: Handled missing values, duplicates, and outliers.
+- Feature Engineering: Selected the most impactful variables for prediction.
+- Preprocessing: Scaled and normalized data for model readiness.
+- Modeling: Trained Linear Regression & Random Forest models.
+- Evaluation: Achieved 82% Accuracy (R Squared Metric).
 
 # Tech Stack
 - Language: Python.
