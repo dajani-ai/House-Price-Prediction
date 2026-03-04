@@ -25,7 +25,7 @@ I have organized the project into specialized notebooks to ensure a clean and mo
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn.
 - Platform: Jupyter Notebook.
 - For quick start: pip install -r requirements.txt
-- 
+
 # Connect with Me
 I am documenting my AI learning journey! Feel free to reach out or follow my progress:
 
