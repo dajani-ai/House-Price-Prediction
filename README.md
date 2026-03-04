@@ -9,19 +9,23 @@ The goal of this project is to build a predictive model that can estimate house 
 - Source: kaggle.
 - [Read the description](https://www.kaggle.com/datasets/camnugent/california-housing-prices)
 
-# Features & Workflow
-- EDA: Visualized data to find hidden patterns and correlations.
-- Data Cleaning: Handled missing values, duplicates, and outliers, and other logical errors.
-- Feature Engineering: Selected the most impactful variables for prediction.
-- Preprocessing: Scaled and normalized data for model readiness.
-- Modeling: Trained Linear Regression & Random Forest models.
-- Evaluation: Achieved 82% Accuracy (R Squared Metric).
+# Project Workflow & Structure
+I have organized the project into specialized notebooks to ensure a clean and modular pipeline:
+- EDA: Visualized data using heatmaps, boxplots and histograms to find hidden patterns and correlations.
+- Data Cleaning: Handled missing values, duplicates, and other logical errors.
+- Feature Engineering & Preprocessing: Scaled and normalized data for model readiness..
+- Modeling & Evaluation: Scaled data and compared Linear Regression vs. Random Forest, achieving an 82% Accuracy.
+
+# Key Results
+- Feature Importance: Discovered that "median_income" and "ocean_proximity" were the most influential factors in determining house prices.
+- Model Performance: The Random Forest Regressor significantly outperformed Linear Regression, achieving an R^2 score of 82%
 
 # Tech Stack
 - Language: Python.
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn.
 - Platform: Jupyter Notebook.
-
+- For quick start: pip install -r requirements.txt
+- 
 # Connect with Me
 I am documenting my AI learning journey! Feel free to reach out or follow my progress:
 
