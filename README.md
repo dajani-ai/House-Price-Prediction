@@ -19,6 +19,7 @@ I have organized the project into specialized notebooks to ensure a clean and mo
 # Key Results
 - Feature Importance: Discovered that "median_income" and "ocean_proximity" were the most influential factors in determining house prices.
 - Model Performance: The Random Forest Regressor significantly outperformed Linear Regression, achieving an R^2 score of 82%
+- Persistence: The pipeline includes logic to serialize the final model into model.pkl for future deployment and instant predictions.
 
 # Tech Stack
 - Language: Python.
